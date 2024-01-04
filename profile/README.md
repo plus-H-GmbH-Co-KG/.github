@@ -1,6 +1,4 @@
-## Hello there
-
-#### This is the official organization of plus H GmbH & Co. KG.
+## Hello there, this is the official organization of plus H GmbH & Co. KG.
 <!--
 
 **Here are some ideas to get you started:**
